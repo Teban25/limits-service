@@ -1,2 +1,2 @@
-# microservices-dojo
-Some spring boot projects to practice spring cloud and microservices architecture
+# in28minutes-microservices-dojo-limits-service
+Spring boot limit service to practice microservices architecture
